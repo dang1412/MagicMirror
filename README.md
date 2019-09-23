@@ -1,8 +1,8 @@
 # NEC SMART MIRROR (MAC)
 
-https://github.com/MichMich/MagicMirror
-https://github.com/eouia/MMM-AssistantMk2
-https://github.com/eouia/MMM-Hotword
+- https://github.com/MichMich/MagicMirror
+- https://github.com/eouia/MMM-AssistantMk2
+- https://github.com/eouia/MMM-Hotword
 
 https://console.actions.google.com/project/nec-smart-mirror/overview
 
